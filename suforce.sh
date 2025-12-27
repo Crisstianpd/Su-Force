@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2025 Cristian Alexander (Crisstianpd)
+
+
 #Check arguments
 if [ "$#" -lt 2 ]; then
     echo "Use: $0 <user_name> <dictionary.txt> [subprocceses_number]"
